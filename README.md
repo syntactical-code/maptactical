@@ -1,8 +1,16 @@
-# MapTactical: Precision Wardley Mapping for Strategic Leaders
+# MapTactical
 
-**Available Now on the Apple App Store for macOS and iPad**
+<img src="https://github.com/user-attachments/assets/3459cd20-91e6-4f54-ad8a-f3e816bf5895" align="left" width="120"> 
+
+**Edit Strategy Seamlessly** - Precision Wardley Mapping for Strategic Leaders
+
+🌏 [Website](https://www.syntactical.com.au/maptactical) | 📗 [Documentation](https://www.syntactical.com.au/maptactical/docs)
 
 Unleash the power of Wardley mapping with **MapTactical**, the definitive editor for crafting strategic maps with ease and precision. Designed for business executives, program managers, change managers, and technical leaders, MapTactical transforms clunky, tedious diagramming into a fluid, intuitive process—empowering you to focus on strategy, not tools. Built on the Wardley Mapping methodology by Simon Wardley (CC BY-SA).
+
+**Available SOON on the Apple AppStore for macOS and iPad**
+
+![Screenshot of the MapTactical editor window on macOS](https://github.com/user-attachments/assets/cb0c4fe2-26c8-4444-b60a-cabcc3bbf82f)
 
 ## Why MapTactical?
 - **Purpose-Built for Wardley Maps:** Unlike generic whiteboards or drawing tools, MapTactical understands components, interfaces, and present vs. future states as defined by Simon Wardley’s methodology (CC BY-SA), letting you create maps without assembling primitives or wrestling with layouts.
