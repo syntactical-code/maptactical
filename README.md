@@ -27,27 +27,15 @@ Wardley Maps, created by Simon Wardley (CC BY-SA), provide a powerful framework 
 
 ## 📝 Submitting Bug Reports and Feature Requests
 
-We value your feedback and want to make MapTactical the best tool for strategic mapping! If you encounter an issue or have a feature request, please use the [GitHub Issues](../../issues) system:
+We value your feedback and want to make MapTactical the best tool for strategic mapping! If you encounter an issue or have a feature request, please tell us:
+
+> [!IMPORTANT]
+> Please read through the [rules](https://github.com/syntactical-code/maptactical/discussions/1) and search for existing reports before creating a new one.
+  
 
 ### To Submit a Bug Report:
-1. Click on the **Issues** tab at the top of this repository.
-2. Select **New Issue**.
-3. Choose the **Bug Report** template (if available) or describe your issue clearly.
-4. Include:
-   - A brief summary of the bug
-   - Steps to reproduce (if possible)
-   - Expected vs. actual behavior
-   - Screenshots or logs (if applicable)
-5. Submit the issue.
+1. Create a new Problem report [here](../../discussions/new?category=problems)
 
 ### To Request a Feature:
-1. Click on the **Issues** tab at the top of this repository.
-2. Select **New Issue**.
-3. Choose the **Feature Request** template (if available) or describe the feature you’d like to see.
-4. Explain:
-   - The problem your feature would solve
-   - How you’d expect it to work
-   - Any alternative solutions you’ve considered
-5. Submit the issue.
+1. Create a new Idea discussion [here](../../discussions/new?category=idea)
 
-We appreciate your contributions and engagement!
