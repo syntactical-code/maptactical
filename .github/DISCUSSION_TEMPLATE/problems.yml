@@ -1,0 +1,51 @@
+labels: ["needs-confirmation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Please read through the [rules](https://github.com/syntactical-code/maptactical/discussions/1) and search for existing reports before creating a new one.
+  - type: markdown
+    attributes:
+      value: "# Problem Details"
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        Provide a detailed description of the problem you encountered.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: |
+        Describe what you expected to occur.  Include any relevant documentation links.
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Platform
+      description: |
+        Which platform did this occur on?
+      options:
+        - macOS (Mac)
+        - iOS (iPad)
+        - iOS (iPhone)
+      multiple: true
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: OS Version
+      description: |
+        Which operating system did this occur on?
+      placeholder: macOS Sequoia 15.5
+    validations:
+      required: true
+ 
+  - type: checkboxes
+    attributes:
+      options:
+        - label: I have reviewed the existing Problem reports and confirm that this is not a previously reported issue.
+          required: true
