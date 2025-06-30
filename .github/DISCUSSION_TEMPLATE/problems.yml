@@ -5,9 +5,11 @@ body:
       value: |
         > [!IMPORTANT]
         > Please read through the [rules](https://github.com/syntactical-code/maptactical/discussions/1) and search for existing reports before creating a new one.
+  
   - type: markdown
     attributes:
       value: "# Problem Details"
+      
   - type: textarea
     attributes:
       label: Description
@@ -15,32 +17,33 @@ body:
         Provide a detailed description of the problem you encountered.
     validations:
       required: true
+      
   - type: textarea
     attributes:
       label: Expected Behavior
       description: |
-        Describe what you expected to occur.  Include any relevant documentation links.
+        Describe what you expected to occur.
     validations:
       required: true
 
-  - type: dropdown
+  - type: checkboxes
     attributes:
-      label: Platform
+      label: Platforms
       description: |
-        Which platform did this occur on?
+        Which platforms did this problem occur on?
       options:
-        - macOS (Mac)
-        - iOS (iPad)
-        - iOS (iPhone)
-      multiple: true
+        - label: macOS
+        - label: iOS (iPad)
+        - label: iOS (iPhone)
     validations:
       required: true
+
   - type: input
     attributes:
       label: OS Version
       description: |
-        Which operating system did this occur on?
-      placeholder: macOS Sequoia 15.5
+        Which OS versions did this problem occur on?
+      placeholder: e.g. macOS Sequoia 15.5, iOS 18.5
     validations:
       required: true
  
